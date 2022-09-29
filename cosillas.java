@@ -4,3 +4,4 @@ class cosillas {
         ((Object) (i+c)).getClass().getSimpleName();
     }
 }
+... no se de java
